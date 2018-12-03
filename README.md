@@ -4,5 +4,6 @@ Getting practice with pygame by loosely implementing a favorite franchise of min
 ## Getting started
 Install required packages with the following command
 ```
-pip install nosetests pygame
+pip install -r requirements.txt
+pip install -e .
 ```
