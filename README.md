@@ -1,9 +1,9 @@
 # nomekop
-Getting practice with pygame by loosely implementing a favorite franchise of mine
+Getting practice with Unity by loosely implementing a favorite franchise of mine. Aiming to not use actual assets
 
 ## Project Status
 
-[![Build Status](https://travis-ci.com/akaps/nomekop.svg?branch=master)](https://travis-ci.com/akaps/nomekop)
+No Travis, just have to run it and find out
 
 ## Getting started
 Needs to be updated, sorry
